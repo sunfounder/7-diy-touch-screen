@@ -16,10 +16,8 @@ Component
 Introcuce
 -----------
 
-This is a 7-inch touch screen with the 1024 x 600 resolution. It supports Raspbian/Win7/Win8/Win10(Plug and play), Android/Linux (need to be configured first). 
+7-inch touch screen supports Raspbian/Win7/Win8/Win10(Plug and play), Android/Linux (need to be configured first). 
 Equipped with Micro USB and HDMI port support, the screen can be connected to the device via HDMI interface and be powered via USB. Achieving touch function powered by USB doesn’t need power cord or drive-free.
-
-.. image:: img/component.jpg
 
 .. Note:: 
 	This is a quick user guide, you can go to our website to get the detailed info.: 

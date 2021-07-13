@@ -1,28 +1,5 @@
-Setting for Raspberry Pi
+Settings for Raspberry Pi
 ===========================
-
-Set up the Raspberry Pi Desktop
----------------------------------
-
-When you start your Raspberry Pi for the first time, the Welcome to Raspberry Pi application will pop up and guide you through the initial setup. Click Next to start the setup.
-
-.. image:: img/image6.png
-
-Set your Country, Language, and Timezone, then click Next again.
-
-.. image:: img/image7.png
-
-Enter a new password for your Raspberry Pi and click Next. In this step, you need to plug a keyboard into the Raspberry Pi to help you input the new password.
-
-.. image:: img/image8.png
-
-Connect to your WiFi network by selecting its name, entering the password, and clicking Next.
-
-.. image:: img/image9.png
-
-Click Next let the wizard check for updates to Raspbian and install them (this might take a little while).
-
-.. image:: img/image10.png
 
 Adjust the Resolution
 -----------------------

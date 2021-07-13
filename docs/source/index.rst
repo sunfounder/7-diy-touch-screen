@@ -10,6 +10,7 @@
     setting_for_raspberry_pi
     connect_the_screen_to_the_pc
     the_appendix_parameters
+    faq
 	
 	
 
