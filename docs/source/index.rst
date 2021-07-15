@@ -1,15 +1,22 @@
 
+TS-7 7-inch Touch Screen
+===============================
+
 .. image:: img/index.jpg
+
+7-inch touch screen supports Raspbian/Win7/Win8/Win10(Plug and play), Android/Linux (need to be configured first). 
+Equipped with Micro USB and HDMI port support, the screen can be connected to the device via HDMI interface and be powered via USB. Achieving touch function powered by USB doesn’t need power cord or drive-free.
+
 
 .. toctree::
     :maxdepth: 2
 
-    overview
-    install_the_system_to_tf_card
+    components_list
+    install_the_rpi_os
     connect_the_screen_to_the_raspberry_pi
     setting_for_raspberry_pi
     connect_the_screen_to_the_pc
-    the_appendix_parameters
+    parameters
     faq
 	
 	

@@ -1,4 +1,4 @@
-Appendix Parameters
+Parameters
 =====================
 
 General Information 
