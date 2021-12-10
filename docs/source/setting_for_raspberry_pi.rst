@@ -1,4 +1,4 @@
-Settings for Raspberry Pi
+QUICK USER GUIDE
 ===========================
 
 Adjust the Resolution

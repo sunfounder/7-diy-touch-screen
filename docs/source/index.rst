@@ -16,6 +16,8 @@ Equipped with Micro USB and HDMI port support, the screen can be connected to th
     connect_the_screen_to_the_raspberry_pi
     setting_for_raspberry_pi
     connect_the_screen_to_the_pc
+    projects_and_activities
+    appendix/appendix
     parameters
     faq
 	
