@@ -1,4 +1,4 @@
-Connect the Screen to the Raspberry Pi
+ASSEMBLY INSTRUCTIONS
 ========================================
 
 Take out M3 nuts and M3x8+6 single-pass brass standoff to support the 7-inch touch screen.

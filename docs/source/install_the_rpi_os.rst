@@ -1,4 +1,4 @@
-Install the Raspberry Pi OS
+INSTALL THE RASPBERRY PI OS
 =============================
 
 In this chapter, we firstly learn to write the Raspberry Pi OS to your Micro SD card. 

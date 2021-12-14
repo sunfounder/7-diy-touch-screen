@@ -1,4 +1,4 @@
-Parameters
+PARAMETERS
 =====================
 
 General Information 

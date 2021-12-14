@@ -13,17 +13,14 @@ Equipped with Micro USB and HDMI port support, the screen can be connected to th
 
     components_list
     install_the_rpi_os
-    connect_the_screen_to_the_raspberry_pi
-    setting_for_raspberry_pi
-    connect_the_screen_to_the_pc
+    assembly_instructions
+    quick_user_guide
     projects_and_activities
+    connect_the_screen_to_the_pc
     appendix/appendix
     parameters
     faq
-	
-	
 
-	
 Copyright Notice
 --------------------------
 
