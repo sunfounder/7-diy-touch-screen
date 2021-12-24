@@ -91,7 +91,7 @@ The detailed steps are shown in the video:
 
 .. note::
 
-    The display for the video is not a 10.1 Touch Screen, it's another one of our products, but the configuration method is the same on the RetroPie.
+    The display for the video is not a 7inch Touch Screen, it's another one of our products, but the configuration method is the same on the RetroPie.
 
 .. raw:: html
 

@@ -21,7 +21,7 @@ If you download a system with only a desktop, you can click **Preferences** -> *
 
     .. code-block::
 
-        git clone https://github.com/sunfounder/10.1-touch-screen
+        git clone https://github.com/sunfounder/7-diy-touch-screen
 
 **Projects**
 

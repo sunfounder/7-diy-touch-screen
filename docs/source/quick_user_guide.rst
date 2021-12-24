@@ -64,6 +64,10 @@ https://www.raspberrypi.org/documentation/configuration/config-txt.md. 
 
 Reboot the Raspberry pi with the command sudo reboot. 
 
+.. raw:: html
+
+    <run></run>
+
 .. code::
 
 	sudo reboot
@@ -88,6 +92,10 @@ Install Virtual Keyboard on Raspberry Pi
 When you use a touch panel, you can connect an external keyboard to help you do a text input operation, but it is best to install a virtual keyboard.
 
 Install the required software with the following command.
+
+.. raw:: html
+
+    <run></run>
 
 .. code-block:: shell
 
@@ -140,7 +148,11 @@ Here we use ``evdev-rce`` to make right-click command still available.
 
 Enter the following command to install the required software.
 
-  .. code-block:: shell
+.. raw:: html
+
+    <run></run>
+
+.. code-block:: shell
 
     sudo apt install build-essential libevdev2 libevdev-dev
     git clone 'https://github.com/PeterCxy/evdev-right-click-emulation.git'
@@ -148,39 +160,63 @@ Enter the following command to install the required software.
 
 Enter the following command to build.
 
-  .. code-block:: shell
+.. raw:: html
+
+    <run></run>
+
+.. code-block:: shell
 
     make all
 
 Copy the file to the ``/usr`` directory.
 
-  .. code-block:: shell
+.. raw:: html
+
+    <run></run>
+
+.. code-block:: shell
 
     sudo cp 'out/evdev-rce' '/usr/local/bin/'
 
 Make it executable.
 
-  .. code-block:: shell
+.. raw:: html
+
+    <run></run>
+
+.. code-block:: shell
 
     sudo chmod +x '/usr/local/bin/evdev-rce'
 
 Modify the /etc/rc.local file to enable boot-up.
 
-  .. code-block:: shell
+.. raw:: html
+
+    <run></run>
+
+.. code-block:: shell
 
     sudo nano /etc/rc.local
 
 After entering rc.local, add the following command before ``exit 0``.
 
+.. raw:: html
+
+    <run></run>
+
 .. code-block:: shell
 
-  sudo /usr/local/bin/evdev-rce &
+    sudo /usr/local/bin/evdev-rce &
 
 After restarting, you can long press on the desktop and see if the right click function appears.
 
+.. raw:: html
+
+    <run></run>
+
 .. code-block:: shell
 
-  sudo reboot
+    sudo reboot
 
 .. image:: img/right_click.png
   :align: center

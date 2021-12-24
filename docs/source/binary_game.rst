@@ -32,7 +32,8 @@ Lesson Guide
 Arrange a small binary abacus at the bottom of the screen.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-First, we delete the previous sprite. Upload the **Zero.png** file and **Enter.png** file in the sprite list, you have downloaded them from `github - 10.1-touch-screen <https://github.com/sunfounder/10.1-touch-screen>`_ before.
+First, we delete the previous sprite. Upload the **Zero.png** file and **Enter.png** file in the sprite list, you have downloaded them from `github - 
+7-diy-touch-screen <https://github.com/sunfounder/7-diy-touch-screen>`_ before.
 
 Then we upload the **One.png** file in the **Costumes** option of the **Zero** sprite, so that the **Zero** sprite has **Zero** costume and **One** costume.
 
