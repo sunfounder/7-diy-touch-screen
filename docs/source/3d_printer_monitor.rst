@@ -142,7 +142,7 @@ Open the Raspberry Pi's browser, and enter ``http://192.168.18.179/?#temp`` to l
 
   The IP address 192.168.18.179 will need to be replaced with the local IP address of the Raspberry Pi. Hover the cursor over the WiFi icon on the Raspberry Pi desktop, and the local IP address will be displayed.
   
-  .. image:: img/appendix1.png
+  .. image:: img/ip_know.png
     :width: 700
     :align: center
 
