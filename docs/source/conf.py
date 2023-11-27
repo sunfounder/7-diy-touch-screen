@@ -17,9 +17,10 @@
 
 # -- Project information -----------------------------------------------------
 import sphinx_rtd_theme
+import time  ###
 
 project = '7-inch DIY Touch Screen'
-copyright = '2021, sunfounder'
+copyright = f'{time.localtime().tm_year}, SunFounder'  ###
 author = 'www.sunfounder.com'
 
 
