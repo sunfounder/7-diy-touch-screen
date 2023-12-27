@@ -1,4 +1,4 @@
-# SunFounder 3in1 Kit
+# TS-7 7-diy-touch-screen
 This repository is for SunFounder TS-7 7-diy-touch-screen. you can buy it on [our website](https://www.sunfounder.com/), or search sunfounder in Amazon.
 
 Quick Links:
