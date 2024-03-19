@@ -48,7 +48,7 @@ Plug the T-type GPIO extension board into the breadboard and build the circuit.
   :width: 600
   :align: center
 
-For the camera installation tutorial, please refer to :ref:`Assemble the Camera Module`.
+For the camera installation tutorial, please refer to :ref:`assemble_camera`.
 
 Programming with Scratch 3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

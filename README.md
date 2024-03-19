@@ -20,6 +20,9 @@ Equipped with Micro USB and HDMI port support, the screen can be connected to th
 
 <a id="update"></a>
 ## Update:
+2024-03-19:
+- Update the tutorials of installing the os.
+
 2023-11-24:
 - Add tips about installing the older version of the Bullseye system.
 

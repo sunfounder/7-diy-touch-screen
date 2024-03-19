@@ -37,7 +37,7 @@ Lesson Guide
 Install and use the camera.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-For the camera installation tutorial, please refer to :ref:`Assemble the Camera Module`.
+For the camera installation tutorial, please refer to :ref:`assemble_camera`.
 
 Click the "Add Extension" icon at the bottom left of scratch and select the **Video Sensing** extension.
 

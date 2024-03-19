@@ -1,3 +1,5 @@
+.. _assemble_camera:
+
 
 Assemble the Camera Module
 ==================================
