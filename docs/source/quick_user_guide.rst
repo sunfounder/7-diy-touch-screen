@@ -89,6 +89,10 @@ Reboot the Raspberry pi with the command sudo reboot. 
 Install Virtual Keyboard on Raspberry Pi
 -------------------------------------------
 
+.. warning::
+
+    If you have installed the latest system - **Debian Bookworm**, then this feature will be unavailable.
+
 When you use a touch panel, you can connect an external keyboard to help you do a text input operation, but it is best to install a virtual keyboard.
 
 Install the required software with the following command.
@@ -142,6 +146,10 @@ Now you can use this keyboard to edit your files or codes.
 Right Click on Raspberry Pi
 ------------------------------
 
+.. warning::
+
+    If you have installed the latest system - **Debian Bookworm**, then this feature will be unavailable.
+
 The touchscreen makes it easy to perform simple navigation tasks with your finger or stylus, but you may want to be able to use the context menu (right-click menu).
 
 Then you will need to download a ``Touchégg``. Enter the following command to install it.
@@ -192,6 +200,9 @@ After restarting, you can double-tap the screen to bring up the context menu.
 Rotate the Display and Touch Angle
 ----------------------------------
 
+.. warning::
+
+    If you have installed the latest system - **Debian Bookworm**, then this feature will be unavailable.
 
 After the Raspberry Pi is turned on, if you find that the display or touch angle is not correct, or you need to rotate to other angles during use, you can follow the tutorial below to achieve them.
 
