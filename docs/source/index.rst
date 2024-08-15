@@ -13,12 +13,14 @@
     👉 Ready to explore and create with us? Click [|link_sf_facebook|] and join today!
 
 
-TS-7 7-inch Touch Screen
+|link_TS7_7inch_Touch_Screen|
 ===============================
+
+* |link_Touch_Screen|
 
 .. image:: img/index.jpg
 
-7-inch touch screen supports Raspbian/Win7/Win8/Win10(Plug and play), Android/Linux (need to be configured first). 
+|link_TS7_7inch_Touch_Screen| supports Raspbian/Win7/Win8/Win10(Plug and play), Android/Linux (need to be configured first). 
 Equipped with Micro USB and HDMI port support, the screen can be connected to the device via HDMI interface and be powered via USB. Achieving touch function powered by USB doesn’t need power cord or drive-free.
 Ideal for applications like retro gaming, industrial control, as a secondary monitor, in home automation, for 3D printing control, and as a |link_pc_monitor|.
 
