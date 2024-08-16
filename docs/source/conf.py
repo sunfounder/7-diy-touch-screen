@@ -89,11 +89,11 @@ rst_epilog = """
 
 .. |link_Touch_Screen| raw:: html
 
-    <a href="https://www.sunfounder.com/products/10-1-inch-raspberry-pi-touchscreen-v?_pos=10&_sid=fdce84a78&_ss=r" target="_blank">Purchase Link for TS-7 7-inch Touch Screen</a>
+    <a href="https://www.sunfounder.com/products/7inch-ips-touchscreen?_pos=6&_sid=77aa0677f&_ss=r" target="_blank">Purchase Link for TS-7 7-inch Touch Screen</a>
 
 .. |link_TS7_7inch_Touch_Screen| raw:: html
 
-    <a href="https://www.sunfounder.com/products/10-1-inch-raspberry-pi-touchscreen-v?_pos=10&_sid=fdce84a78&_ss=r" target="_blank">TS-7 7-inch Touch Screen</a>
+    <a href="https://www.sunfounder.com/products/7inch-ips-touchscreen?_pos=6&_sid=77aa0677f&_ss=r" target="_blank">TS-7 7-inch Touch Screen</a>
 
 """
 
