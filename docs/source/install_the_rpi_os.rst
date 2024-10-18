@@ -19,7 +19,7 @@ INSTALL THE OS
 
 **Required Components**
 
-* Raspberry Pi 5B
+* Raspberry Pi 5
 * A Personal Computer
 * A Micro SD card 
 
