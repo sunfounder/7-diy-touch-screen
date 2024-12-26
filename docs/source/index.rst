@@ -51,9 +51,9 @@ The steps are as follows.
     :maxdepth: 2
 
     components_list
-    install_the_rpi_os
+    install_the_os
     assembly_instructions
-    quick_user_guide
+    resolution_orientation
     projects_and_activities
     connect_the_screen_to_the_pc
     appendix/appendix
